@@ -1,11 +1,14 @@
-# SCT_DS_01# SCT_DS_01
-# Task 01 – SkillCraft Technology
+# SCT_DS_01
+## 📊 Task 01 – Population Distribution Visualization (Excel)
 
-This repository contains a bar chart for age distribution of India's population in 2022.
+This task involved creating and analyzing the population distribution data using Excel.
 
-## Chart Preview
-![Chart](chart.png)  <!-- Use your actual file name here -->
+### ✅ What I Did:
+- Loaded population data (like age groups or demographics)
+- Built frequency tables and charts (or calculated percentages)
+- Formatted data neatly for visualization or upload
 
-## Tools Used
-- Python
-- Matplotlib / Seaborn
+### 📁 File Included:
+- `Task1_Population_Distribution.xlsx` – contains all raw and formatted data
+
+> All work was done in Excel. No Python required for this task.
